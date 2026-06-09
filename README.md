@@ -24,15 +24,15 @@ The objective of the game is to keep traffic moving efficiently by controlling v
 ## 📸 Screenshots
 
 ### Main Menu
-<img width="400" height="768" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/b413628c-8d99-4fc9-ba2f-d657792974de" />
+<img width="400" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/b413628c-8d99-4fc9-ba2f-d657792974de" />
 
 
 ### Gameplay
-<img width="400" height="768" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/a44d6fda-4f8b-4e62-a0ac-83ad891f30fd" />
+<img width="400" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/a44d6fda-4f8b-4e62-a0ac-83ad891f30fd" />
 
 
 ### Game Over Screen
-<img width="400" height="768" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/2a107478-46ec-4560-8711-683c4b14cdab" />
+<img width="400" alt="Screenshot (413)" src="https://github.com/user-attachments/assets/2a107478-46ec-4560-8711-683c4b14cdab" />
 
 
 ## 🚀 Installation
