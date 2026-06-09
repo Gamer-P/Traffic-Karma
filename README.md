@@ -49,13 +49,6 @@ git clone https://github.com/your-username/Traffic-Karma.git
 
 or use this download link to play: https://gamerdev0.itch.io/traffic-karma
 
-## 🎯 Controls
-
-| Action | Control |
-|----------|---------|
-| Select Vehicle | Mouse Click |
-| Control Traffic | Mouse Click / Tap |
-| Pause Game | Esc |
 
 ## 📂 Project Structure
 
