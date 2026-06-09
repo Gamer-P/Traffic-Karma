@@ -47,6 +47,8 @@ git clone https://github.com/your-username/Traffic-Karma.git
 3. Load the main scene.
 4. Press **Play** in the Unity Editor.
 
+or use this download link to play: https://gamerdev0.itch.io/traffic-karma
+
 ## 🎯 Controls
 
 | Action | Control |
